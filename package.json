@@ -1,0 +1,23 @@
+{
+  "name": "pwa-example-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeep-Tech/pwa-example-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeep-Tech/pwa-example-project/issues"
+  },
+  "homepage": "https://github.com/Sandeep-Tech/pwa-example-project#readme",
+  "devDependencies": {
+    "workbox-build": "^4.3.1"
+  }
+}
